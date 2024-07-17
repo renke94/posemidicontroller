@@ -1,2 +1,1 @@
-# posemidicontroller
-Pose MIDI Controller
+# Pose MIDI Controller
